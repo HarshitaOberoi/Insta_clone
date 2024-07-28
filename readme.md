@@ -1,14 +1,14 @@
 <h1>Fully Functional INSTAGRAM✨</h1>
 
-<h3>✅login & register page
-✅feed page
-✅profile page
-✅picture
-✅story feature
-✅edit details
-✅share to story
-✅search accounts
-</h3>
+<h3>✅login & register page</h3>
+<h3>✅feed page</h3>
+<h3>✅profile page</h3>
+<h3>✅picture</h3>
+<h3>✅story feature</h3>
+<h3>✅edit details</h3>
+<h3>✅share to story</h3>
+<h3>✅search accounts</h3>
+
 
 
 
